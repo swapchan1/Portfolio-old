@@ -25,7 +25,7 @@
                 widgetTitle: "In-Campus Locator",
                 widgetDescription: 'A Smart Kitchen Experience',
                 pageLink:"campusnav.html" ,
-                widgetImage:"assets/images/portfolio/campusnav/logo.png"
+                widgetImage:"assets/images/portfolio/campusnav/Logo.png"
             },
             
             {
