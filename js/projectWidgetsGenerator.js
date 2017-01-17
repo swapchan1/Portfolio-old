@@ -32,7 +32,7 @@
                 categoryExp: "widgetCntrl.isView(3) || widgetCntrl.isView(1)",
                 widgetTitle: "DinnerCall",
                 widgetDescription: 'UX Design & Evaluation',
-                pageLink: "dinnercall.html",
+                pageLink: "dinrcall.html",
                 widgetImage:"assets/images/portfolio/campusnav/logo.png"
             },
             
