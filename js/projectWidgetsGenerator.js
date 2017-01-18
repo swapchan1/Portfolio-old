@@ -33,7 +33,7 @@
                 widgetTitle: "DinnerCall",
                 widgetDescription: 'UX Design & Evaluation',
                 pageLink: "dinrcall.html",
-                widgetImage:"assets/images/portfolio/campusnav/Logo.PNG"
+                widgetImage:"Projects/Dinnercall/dp.jpeg"
             },
             
             {
@@ -41,7 +41,7 @@
                 widgetTitle: "Musical Moods - Visual Analytics",
                 widgetDescription: 'Arduino Physical Prototype',
                 pageLink: "musicalmoods.html",
-                widgetImage:"assets/images/portfolio/campusnav/Logo.PNG"
+                widgetImage:"Projects/MusicalMoods/dp.jpeg"
             },
             
             {
@@ -49,7 +49,7 @@
                 widgetTitle: "EduAssist",
                 widgetDescription: 'HCI Research Study',
                 pageLink: "EduAssist.html",
-                widgetImage:"assets/images/portfolio/campusnav/Logo.PNG"
+                widgetImage:"Projects/Edu-Assist/dp.jpeg"
             }
         ];
 })();
