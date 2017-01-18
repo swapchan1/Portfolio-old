@@ -19,14 +19,7 @@
     });
     
     var projectWidgets = 
-        [
-            {
-                categoryExp: "widgetCntrl.isView(2) || widgetCntrl.isView(1)",
-                widgetTitle: "In-Campus Locator",
-                widgetDescription: 'A Smart Kitchen Experience',
-                pageLink:"campusnav.html" ,
-                widgetImage:"assets/images/portfolio/campusnav/Logo.png"
-            },
+        {
            {
                 categoryExp: "widgetCntrl.isView(3) || widgetCntrl.isView(1)",
                 widgetTitle: "DinnerCall",
