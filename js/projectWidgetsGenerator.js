@@ -40,7 +40,7 @@
                 widgetTitle: "Musical Moods - Visual Analytics",
                 widgetDescription: 'Arduino Physical Prototype',
                 pageLink: "musicalmoods.html",
-                widgetImage:"Projects/MusicalMoods/dp.jpeg"
+                widgetImage:"Projects/MusicalMoods/dp.jpg"
             },
 
             {
@@ -48,7 +48,7 @@
                 widgetTitle: "EduAssist",
                 widgetDescription: 'HCI Research Study',
                 pageLink: "EduAssist.html",
-                widgetImage:"Projects/Edu-Assist/dp.jpeg"
+                widgetImage:"Projects/Edu-Assist/dp.JPG"
             }
         ];
 })();
