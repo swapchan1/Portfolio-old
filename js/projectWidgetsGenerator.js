@@ -19,7 +19,7 @@ function(){
     });
     
     var projectWidgets = 
-        {
+        [
            {
                 categoryExp: "widgetCntrl.isView(2) || widgetCntrl.isView(1)",
                 widgetTitle: "DinnerCall",
