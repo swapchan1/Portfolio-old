@@ -1,4 +1,4 @@
-*(function(){
+(function(){
     
     var widgetGeneratorApp = angular.module('ProjectWidgetsGenerator', []);
     
