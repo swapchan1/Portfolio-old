@@ -49,7 +49,7 @@
                 widgetTitle: "EduAssist",
                 widgetDescription: 'HCI Research Study',
                 pageLink: "EduAssist.html",
-                widgetImage:"Projects/Edu-Assist/dp.jpeg"
+                widgetImage:"Projects/Edu-Assist/dp.JPG"
             }
         ];
 })();
